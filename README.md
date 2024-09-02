@@ -22,6 +22,6 @@ Sou um estudante apaixonado de **Análise e Desenvolvimento de Sistemas**, atual
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{moraesfelippe}/count.svg" /></p> 
 <br>
 </div>
